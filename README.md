@@ -2,7 +2,9 @@
 
 **Course:** MCDA 5512 – Current Practise in Computer & Data Science  
 **Assignment:** Maven Assignment  
-**Student:** ASUS ROG STRIX  
+**Student:** Jayanta Sarker Shuva  
+**Student Number:** A00493308  
+**Email:** Jayanta.sarker.shuva@smu.ca  
 **Due Date:** 8th March 2026
 
 ---
