@@ -161,10 +161,33 @@ No classpath setup required — everything is self-contained in one file.
 |---|-------------|--------|
 | 1 | GitHub repository | ✅ [https://github.com/jshuva/Maven_Assignment](https://github.com/jshuva/Maven_Assignment) |
 | 2 | Source code ZIP file | ✅ `MavenAssingment.zip` |
-| 3 | Screenshot: `mvn clean package` → BUILD SUCCESS | ✅ `screenshots/01_build_success.png` |
-| 4 | Screenshot: JUnit test results (all 6 tests passing) | ✅ `screenshots/02_junit_tests.png` |
-| 5 | Screenshot: Program execution output | ✅ `screenshots/03_program_execution.png` |
-| 6 | Screenshot: Bonus shaded JAR + git push | ✅ `screenshots/04_shaded_jar_git_push.png` |
+| 3 | Screenshot: `mvn clean package` → BUILD SUCCESS | ✅ Below |
+| 4 | Screenshot: JUnit test results (all 6 tests passing) | ✅ Below |
+| 5 | Screenshot: Program execution output | ✅ Below |
+| 6 | Screenshot: Bonus shaded JAR + git push | ✅ Below |
+
+---
+
+## Screenshots
+
+### 1. Maven Build — BUILD SUCCESS
+![Maven build success showing Tests run: 6, Failures: 0 and BUILD SUCCESS](screenshots/01_build_success.png)
+
+---
+
+### 2. JUnit Test Results — 6/6 Passing
+![JUnit 5 test results showing all 6 tests pass with 0 failures](screenshots/02_junit_tests.png)
+
+---
+
+### 3. Program Execution Output
+![Program output showing capitalize and MD5 hex for input smu](screenshots/03_program_execution.png)
+
+---
+
+### 4. Bonus — Shaded JAR Execution + Git Push
+![Shaded JAR execution and git push to GitHub](screenshots/04_shaded_jar_git_push.png)
+
 
 ---
 
