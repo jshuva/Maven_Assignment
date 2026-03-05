@@ -159,12 +159,12 @@ No classpath setup required — everything is self-contained in one file.
 
 | # | Requirement | Status |
 |---|-------------|--------|
-| 1 | GitHub repository link | ✅ (see repo URL above) |
-| 2 | Source code ZIP file | ✅ Submit `MavenAssingment.zip` |
-| 3 | Screenshot: `mvn clean package` → BUILD SUCCESS | ✅ See screenshots folder |
-| 4 | Screenshot: JUnit test results (all 6 tests passing) | ✅ See screenshots folder |
-| 5 | Screenshot: Program execution output | ✅ See screenshots folder |
-| 6 | Screenshot: Bonus shaded JAR execution | ✅ See screenshots folder |
+| 1 | GitHub repository | ✅ [https://github.com/jshuva/Maven_Assignment](https://github.com/jshuva/Maven_Assignment) |
+| 2 | Source code ZIP file | ✅ `MavenAssingment.zip` |
+| 3 | Screenshot: `mvn clean package` → BUILD SUCCESS | ✅ `screenshots/01_build_success.png` |
+| 4 | Screenshot: JUnit test results (all 6 tests passing) | ✅ `screenshots/02_junit_tests.png` |
+| 5 | Screenshot: Program execution output | ✅ `screenshots/03_program_execution.png` |
+| 6 | Screenshot: Bonus shaded JAR + git push | ✅ `screenshots/04_shaded_jar_git_push.png` |
 
 ---
 
